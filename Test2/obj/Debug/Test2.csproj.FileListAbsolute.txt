@@ -1,0 +1,10 @@
+D:\C#\test\Test2\Test2\bin\Debug\Test2.exe.config
+D:\C#\test\Test2\Test2\bin\Debug\Test2.exe
+D:\C#\test\Test2\Test2\bin\Debug\Test2.pdb
+D:\C#\test\Test2\Test2\obj\Debug\Test2.csproj.AssemblyReference.cache
+D:\C#\test\Test2\Test2\obj\Debug\Test2.Form1.resources
+D:\C#\test\Test2\Test2\obj\Debug\Test2.Properties.Resources.resources
+D:\C#\test\Test2\Test2\obj\Debug\Test2.csproj.GenerateResource.cache
+D:\C#\test\Test2\Test2\obj\Debug\Test2.csproj.CoreCompileInputs.cache
+D:\C#\test\Test2\Test2\obj\Debug\Test2.exe
+D:\C#\test\Test2\Test2\obj\Debug\Test2.pdb
